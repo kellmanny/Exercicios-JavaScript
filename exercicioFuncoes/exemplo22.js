@@ -1,4 +1,4 @@
-function trasNegativoPositivo(num){
+function trasNegativoPositivo(num) {
     return Math.abs(num)
 }
 
